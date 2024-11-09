@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 2"
+title: "ME 203 Computation methods for Engineering"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/ME_203
+venue: "Oregon State University"
+date: 2023-00-01
+location: "Corvallis, Oregon"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a second year course in programming designed for Mechanical Engineers. The focus is on learning to use libraries like numpy and scipy for tasks such as data processing and simulation.
 
-Heading 1
+The weekly format of the course is tutorials (explain the basic concepts), practice, lecture activity (actually solve a problem), then a lab. The homeworks build on the labs, and take 2-3 weeks.
+
+Code is primarily in Jupyter Notebooks, using <a href="https://otter-grader.readthedocs.io/en/latest/">Otter Grader</a> to provide in-line feedback (and autograding in Gradescope).
+
+Lectures
 ======
 
-Heading 2
-======
+The lectures are available <a href="https://drive.google.com/drive/folders/1KBvPjXPmD0cX_CH8XmqaSLWtlBg4sooo?usp=sharing">here</a>. There is an on-line version that has videos for each lecture.
 
-Heading 3
+Source code
 ======
+Shell code is available <a href="https://github.com/OSUrobotics/IntroPythonProgramming">here</a>.
