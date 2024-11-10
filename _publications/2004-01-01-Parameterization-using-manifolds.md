@@ -7,6 +7,6 @@ date: 2004-01-01
 venue: 'International Journal of Shape Modeling'
 paperurl: 'http://cindygr.github.io/files/ijsm2004pm.pdf'
 
-citation: ' Cindy Grimm, &quot;Parameterization using manifolds.&quot; International Journal of Shape Modeling, 2004.'
+citation: ' Cindy Grimm, '
 ---
 

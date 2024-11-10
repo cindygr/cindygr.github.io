@@ -7,6 +7,6 @@ date: 2011-01-01
 venue: 'Computers and Graphics (Pergamon)'
 paperurl: 'http://cindygr.github.io/files/cg2011sc.pdf'
 
-citation: ' Cindy Grimm,  William Smart, &quot;Shape classification and normal estimation for non-uniformly sampled, noisy point data.&quot; Computers and Graphics (Pergamon), 2011.'
+citation: ' Cindy Grimm,  William Smart, '
 ---
 

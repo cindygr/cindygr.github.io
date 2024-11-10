@@ -7,6 +7,6 @@ date: 2006-01-01
 venue: 'International Journal of Shape Modeling'
 paperurl: 'http://cindygr.github.io/files/ijsm2006c.pdf'
 
-citation: ' Tim Gatzke,  Cindy Grimm, &quot;Estimating curvature on triangular meshes.&quot; International Journal of Shape Modeling, 2006.'
+citation: ' Tim Gatzke,  Cindy Grimm, '
 ---
 

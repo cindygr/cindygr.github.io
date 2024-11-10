@@ -7,6 +7,6 @@ date: 2010-01-01
 venue: 'Journal of Computing in Small Colleges'
 paperurl: 'http://cindygr.github.io/files/jcsc2010al.pdf'
 
-citation: ' Ross Sowell,  Yixen Chen,  Jeremy Buhler,  Sally Goldman,  Cindy Grimm,  Kenneth Goldman, &quot;Experiences with active learning in CS 3.&quot; Journal of Computing in Small Colleges, 2010.'
+citation: ' Ross Sowell,  Yixen Chen,  Jeremy Buhler,  Sally Goldman,  Cindy Grimm,  Kenneth Goldman, '
 ---
 

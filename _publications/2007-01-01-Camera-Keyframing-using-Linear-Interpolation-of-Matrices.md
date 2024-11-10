@@ -7,6 +7,6 @@ date: 2007-01-01
 venue: 'Journal of Graphics Tools'
 paperurl: 'http://cindygr.github.io/files/jgt2007ci.pdf'
 
-citation: ' Amy Hawkins,  Cindy Grimm, &quot;Camera Keyframing using Linear Interpolation of Matrices.&quot; Journal of Graphics Tools, 2007.'
+citation: ' Amy Hawkins,  Cindy Grimm, '
 ---
 

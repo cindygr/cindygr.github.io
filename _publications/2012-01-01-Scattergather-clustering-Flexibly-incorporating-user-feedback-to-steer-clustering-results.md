@@ -7,6 +7,6 @@ date: 2012-01-01
 venue: 'IEEE Transactions on Visualization and Computer Graphics'
 paperurl: 'http://cindygr.github.io/files/vast2012sgc.pdf'
 
-citation: ' Shahriar Hossain,  Praveen Kumar,  Reddy Ojili,  Cindy Grimm,  Rolf Mueller,  Layne Watson,  Naren Ramakrishnan, &quot;Scatter/gather clustering: Flexibly incorporating user feedback to steer clustering results.&quot; IEEE Transactions on Visualization and Computer Graphics, 2012.'
+citation: ' Shahriar Hossain,  Praveen Kumar,  Reddy Ojili,  Cindy Grimm,  Rolf Mueller,  Layne Watson,  Naren Ramakrishnan, '
 ---
 

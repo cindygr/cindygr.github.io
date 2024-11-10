@@ -7,6 +7,6 @@ date: 2007-01-01
 venue: 'IEEE Transactions on Visualization and Computer Graphics'
 paperurl: 'http://cindygr.github.io/files/tcgv2007ttl.pdf'
 
-citation: ' A. Mohan,  Reynold Bailey,  J. Waite,  Jack Tumblin,  Cindy Grimm,  Bobby Bodenheimer, &quot;Table-top computed lighting for practical digital photography.&quot; IEEE Transactions on Visualization and Computer Graphics, 2007.'
+citation: ' A. Mohan,  Reynold Bailey,  J. Waite,  Jack Tumblin,  Cindy Grimm,  Bobby Bodenheimer, '
 ---
 
