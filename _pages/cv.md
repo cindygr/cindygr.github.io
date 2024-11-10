@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Brown University, 1996
+* M.S. in Computer Science, Brown University, 1992
+* B.S. in Computer Science, University of California, Berkeley, 1990
+* B.S. in Art, University of California, Berkeley, 1990
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2012-now: Professor
+  * School of Mechanical, Industrial, and Manufacturing Engineering
+  * Oregon State University
+  * Promoted to full 2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 2000-2012: Associate professor
+  * Department of computer science
+  * Washington University in St. Louis
+  * Promoted to associate in 2007
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 1998-2000: Post-Doc
+  * Microsoft Corporation
+  * Facial animation
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2022-now Graduate director of the Robotics program
