@@ -1,12 +1,12 @@
 ---
 title: "Shape Space Analysis of Structures in Bat Biosonar"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2011-01-01-Shape-Space-Analysis-of-Structures-in-Bat-Biosonar
-paperurl: 'http://cindygr.github.io/files/jas2011ss.pdf'
-
 date: 2011-01-01
 venue: 'The Journal of the Acoustical Society of America'
+paperurl: 'http://cindygr.github.io/files/jas2011ss.pdf'
+
 citation: ' Rolf Mueller,  Lyvin Cai,  Cindy Grimm,  Washington Mio, &quot;Shape Space Analysis of Structures in Bat Biosonar.&quot; The Journal of the Acoustical Society of America, 2011.'
 ---
 
