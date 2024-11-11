@@ -1,6 +1,7 @@
 ---
 title: "Modeling and Visualization of Inter-Bone Distances in Joints"
 collection: publications
+category: conferences
 permalink: /publication/10/2001-ieeeVis2001mv
 excerpt: 'Using the smooth manifolds to capture distance calculations, We demonstrate a method for visualizing inter-bone distances in articular joints. Visualization of inter-bone distances has the potential to characterize 3D structures and spatial relations non-invasively in complex joints. Surface fitting,  visualization,  biomedical, '
 date: 10/2001
