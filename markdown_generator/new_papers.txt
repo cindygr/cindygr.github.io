@@ -1,0 +1,72 @@
+pub_date	title	url_slug	venue	excerpt	url	paper_url	citation	slides_url
+12/2024	Tree Detection and In-Row Localization for Autonomous Precision Orchard Management	poc2024td	Computers and electronics in Agriculture	Localization within an orchard using tree location and width	https://www.sciencedirect.com/science/article/pii/S0168169924008457?dgcid=rss_sd_all		"Jostan Brown, Achyut Paudel, Deven Biehler, Ashley Thompson, Manoj Karkee, Cindy Grimm,, and Joeseph R. Davidson"	
+8/2023	Vision-based Normalized Canopy Area Estimation for Variable Nitrogen Application in Apple Orchards	sat2023vbn	Smart Agricultural Technology	Estimate the canopy area using vision	https://www.sciencedirect.com/science/article/pii/S2772375523001387		"Achyut Paudel, Manoj Karkee, Joeseph R. Davidson, and Cindy Grimm"	
+12/2023	Semi-autonomous precision pruning of upright fruiting offshoot orchard systems	mag2023sap	"IEEE Robotics and Automation Magazine, Special Issue on Embracing robotics and intelligent machine systems"	Running the entire automated pruning system (planar tree)	https://ieeexplore.ieee.org/document/10246299		"Alexander You, Nidhi Parayil, Gopala Krishna Josyula, Uddhav Bhattarai, Ranjan Sapkota, Dawood Ahmed, Matthew Whiting, Manoj Karkee, Cindy Grimm, and Joseph Davidson"	
+8/2024	Using Video-Based Interventions to Enhance Public Understanding of Delivery Robots	roman2024vbi	IEEE Ro-Man 2024	Using videos to calibrate people on how well robots can move	https://www.ro-man2024.org/		"Ayan Robinson, Cindy Grimm and Naomi Fitter"	
+8/2024	How do Starship Robots affect Everyday Campus Life? An Exploratory Posting Board Analysis and Interview-Based Study	roman2024sr	IEEE Ro-Man 2024	What do people think about the starship robots running around OSU campus?	https://www.ro-man2024.org/		"Adeline Schneider, Ayan Robinson, Cindy Grimm and Naomi Fitter"	
+5/2024	The Grasp Reset Mechanism: An Automated Apparatus for Conducting Grasping Trials	icra2024gr	IEEE International Conference on Robotics and Automation (ICRA)	Automating reseting an object for repeated grasping	https://2024.ieee-icra.org/		"Kyle DuFrene, Keegan Nave, Joshua Campbell, Ravi Balasubramanian, and Cindy Grimm"	
+5/2024	Dynamic Evaluation of a Suction Based Gripper for Fruit Picking using a Physical Twin	icra2024grip	IEEE International Conference on Robotics and Automation (ICRA)	"Apple picking gripper, version with suction cups and no fingers"	https://2024.ieee-icra.org/		"Alejandro Velasquez-Lopez, Cindy Grimm, and Joseph R. Davidson"	
+8/2023	Towards Improving User Expectations of Robots by Leveraging Their Experience with Computer Vision Apps	roman2023ue	IEEE Ro-Man 2023	Using common apps to help calibrate people about computer vision	https://ro-man2023.org/main		"Sogol Balali, Ian Afflerbach, Ross T. Sowell, Ruth West, Cindy Grimm"	
+10/2023	Hand Design Approach for Planar Fully Actuated Manipulators	iros2023hd	IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)	How to pick link lengths for a 2-fingered gripper to maximize in-hand translation	https://ieee-iros.org/ 		"Keegan Nave, Kyle DuFrene, Nigel Swenson, Ravi Balasubramanian, Cindy Grimm"	
+10/2023	Development and Evaluation of Exploratory Experiences to Facilitate Reasoning About Robotic Systems	iros2023exp	IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)	"Using failure to explain what robots can and cannot do, vision and laser "	https://ieee-iros.org/ 		"Sogol Balali, Marisa Hudspeth, Ross T. Sowell, Cindy Grimm, Ruth West, Walid Abu Al-Afia"	
+6/2023	Benchmarking planar rotation capabilities of robot hands with fingers	ur2023bm	20th International Conference on Ubiquitous Robots	Followon to benchmarking in-hand translation that benchmarks rotation	http://2023.ubiquitousrobots.org/		"John Morrow, Joshua Campbell, Ravi Balasubramanian, Cindy Grimm"	
+6/2023	Follow the leader: A path generator and controller for precision tree scanning with a robotic manipulator	ecpa2023fl	14th European Conference on Precision Agriculture	Tracing tree branches	https://www.ecpa2023.it/		"Nidhi Parayil, Alexander You, Cindy Grimm, and Joseph R. Davidson"	
+6/2023	Automatic estimation of trunk cross sectional area using deep learning	ecpa2023tc	14th European Conference on Precision Agriculture	Estimating the width of a tree trunk from an image and depth values	https://www.ecpa2023.it/		"Tieqiao Wang, Piko Sankari, Jostan Brown, Achyet Paudel, Liqiang He, Manoj Karkee, Ashley Tompson, Cindy Grimm, Sinisia Todorovic"	
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
